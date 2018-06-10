@@ -1,0 +1,16 @@
+7.271166, 80.606469
+7.278529, 80.617805
+7.290267, 80.632536
+7.298426, 80.635659
+7.319092, 80.630777
+7.256599, 80.588844
+7.256083, 80.581302
+7.267460, 80.571914
+
+
+
+ for (i = 0; i < locations.length; i++) {  
+      		marker2 = new google.maps.Marker({
+       		position: new google.maps.LatLng(locations[i][0], locations[i][1]),
+       		map: map
+      		});

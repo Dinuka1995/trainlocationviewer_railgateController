@@ -1,2 +1,5 @@
-# trainlocationviewer_railgateController
-This project is to track rail gates as well as control rail gates automatically based on GPS. 
+
+
+This is the project 1.1 which used ajax for load locations. next version is adding multiple 
+
+markers on the map (project1.2). We will meet with that version! -_- ;
